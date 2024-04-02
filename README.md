@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Danilo a former high school physics and chemistry teacher from Brazil.<br>👀 I’m interested in software and computer engineering, working out and playing games.<br>🌱 I’m currently in computer engineering as my second degree (I already have a degree in chemistry).<br>💞️ I’m changing careers therefore I'm quite to new to all this still I'm looking to collaborate on projects involving anything that may enrich my experience and get me started and going.<br>💫 I speak fluent English and Portuguese.
+# 💫 Sobre mim:
+👋 Olá, me chamo Danilo e sou ex-professor de física e química de nível médio.<br>👀 Tenho interesse em engenharia de computação e de software, academia e videogame.<br>🌱 Atualmente, estou cursando engenharia de computação como minha segunda graduação (já tenho um diploma em química).<br>💞️ Estou mudando de carreira, portanto, ainda sou bastante novo em tudo isso, mas estou procurando colaborar em projetos que possam enriquecer minha experiência e me ajudar a começar e seguir em frente.<br>💫 Falo inglês e português fluentemente.
 
 
 ## 🌐 Socials:
