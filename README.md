@@ -18,6 +18,7 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
+| **Weather App** | Shows the current weather for any city, consuming the Open-Meteo API. Practices `fetch`, `async/await` and error handling. | [Code](https://github.com/dan-paiva/app-clima) · [Live demo](https://dan-paiva.github.io/app-clima/) |
 | **To-Do App** | A task list app with filters and browser-saved data. Built with plain HTML, CSS, and JavaScript. | [Code](https://github.com/dan-paiva/app-de-tarefas) · [Live demo](https://dan-paiva.github.io/app-de-tarefas/) |
 
 ## 💻 Tech Stack
