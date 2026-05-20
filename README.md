@@ -1,5 +1,15 @@
-# 💫 Sobre mim:
-👋 Olá, me chamo Danilo e sou ex-professor de física e química de nível médio.<br>👀 Tenho interesse em engenharia de computação e de software, academia e videogame.<br>🌱 Atualmente, estou cursando engenharia de computação como minha segunda graduação (já tenho um diploma em química).<br>💞️ Estou mudando de carreira, portanto, ainda sou bastante novo em tudo isso, mas estou procurando colaborar em projetos que possam enriquecer minha experiência e me ajudar a começar e seguir em frente.<br>💫 Falo inglês e português fluentemente.
+# 💫 About me:
+
+👋 Software Engineer Junior | Computer Engineering Student
+
+💻 Interested in software engineering, AI, educational technology, fitness, and gaming.
+
+🎓 Former physics and chemistry teacher transitioning into tech. Currently pursuing a degree in Computer Engineering, with a previous degree in Chemistry.
+
+🚀 Passionate about building useful solutions, learning new technologies, and collaborating on impactful projects.
+
+🌎 Fluent in Portuguese and English.
+
 
 
 ## 🌐 Socials:
