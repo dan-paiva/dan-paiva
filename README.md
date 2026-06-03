@@ -33,8 +33,7 @@
 
 ## 📫 Get in touch
 
-- 📧 d.paivas@outlook.com
-
+- 📧 danilops.dev@gmail.com
 ---
 
 <sub>💡 This profile evolves with every project — one commit at a time.</sub>
