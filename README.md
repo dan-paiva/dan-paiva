@@ -1,40 +1,45 @@
+<div align="center">
+
 # Hi, I'm Danilo 👋
 
-### Software Engineer · EdTech
+**Software Engineer · EdTech**<br/>
+Former chemistry & physics teacher, now writing code for schools.
 
-💻 I build software at an education-technology company — where my teaching background is part of the work, helping bridge what classrooms actually need and what we ship.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paivadan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.danpaiva@gmail.com)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/danpaiva)
 
-🎓 Chemistry degree and former physics & chemistry teacher, now a Computer Engineering student writing code for a living.
+</div>
 
-🔭 Currently building **role-sp**, a map of LGBT-friendly events around São Paulo (Python + FastAPI).
+## About me
 
-🌎 Portuguese (native) and English.
+- 💻 I build software at an education-technology company, where my years in the classroom help connect what schools actually need with what we ship.
+- 🎓 Chemistry degree, former teacher, now a Computer Engineering student.
+- 🔭 Currently building **[Classa](https://github.com/dan-paiva/classa)**, an open-source school management system.
+- 🌎 Portuguese (native) and English.
 
-## 🌐 Socials
+## 📂 What I'm working on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paivadan) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/danpaiva)
+### 🏫 [Classa](https://github.com/dan-paiva/classa)
 
-## 📂 Featured Projects
+Open-source school management system: enrollments, classes, schedule, teachers, billing and access profiles. Built with TypeScript, React, Hono and PostgreSQL.
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Weather App** | Shows the current weather for any city, consuming the Open-Meteo API. Practices `fetch`, `async/await` and error handling. | [Code](https://github.com/dan-paiva/app-clima) · [Live demo](https://dan-paiva.github.io/app-clima/) |
-| **To-Do App** | A task list app with filters and browser-saved data. Built with plain HTML, CSS, and JavaScript. | [Code](https://github.com/dan-paiva/app-de-tarefas) · [Live demo](https://dan-paiva.github.io/app-de-tarefas/) |
+<sub>**Where I started:** my first two projects, a [To-Do App](https://github.com/dan-paiva/app-de-tarefas) ([demo](https://dan-paiva.github.io/app-de-tarefas/)) and a [Weather App](https://github.com/dan-paiva/app-clima) ([demo](https://dan-paiva.github.io/app-clima/)), in plain HTML, CSS and JavaScript.</sub>
 
-## 💻 Tech Stack
+## 🛠️ Tech I've worked with
 
-> What I've actually used so far — it grows as I build more.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+<sub>Only what I've actually used. The list grows as I build more.</sub>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dan-paiva&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-paiva&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 📫 Get in touch
-
-- 📧 eng.danpaiva@gmail.com
 ---
 
-<sub>💡 This profile evolves with every project — one commit at a time.</sub>
+<div align="center"><sub>💡 This profile evolves with every project, one commit at a time.</sub></div>
