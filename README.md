@@ -34,7 +34,7 @@
 
 ## 📫 Get in touch
 
-- 📧 danilops.dev@gmail.com
+- 📧 eng.danpaiva@gmail.com
 ---
 
 <sub>💡 This profile evolves with every project — one commit at a time.</sub>
